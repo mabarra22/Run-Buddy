@@ -16,6 +16,7 @@
     padding: 20px 35px;
     display: flex;
     justify-content: space-between;
+    flex-wrap: wrap;
     background-color: #39a6b2;
   }
   
